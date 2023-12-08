@@ -1,0 +1,36 @@
+.banner {
+    text-align: center;
+    font-family: monospace;
+    
+}
+
+body {
+    background-color: rgb(244, 128, 87);
+    
+}
+
+#text-box {
+   width: 100%;
+   font-family: fantasy;
+   font-feature-settings: "aalt";
+}
+#message-container {
+    background-color: rgb(60, 59, 59);
+    box-shadow: 0 0 20px rgb(60,59,59);
+    text-align: center;
+}
+
+.button {
+    border-radius: 1em;
+    border: none;
+    font-family: fantasy;
+    font-size: 1em;
+    cursor: pointer;
+    margin: 0 auto;
+    text-transform: uppercase;
+    
+}
+
+button:hover {
+    background-color: coral;
+}
